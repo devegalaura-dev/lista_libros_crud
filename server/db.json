@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "id": "3",
+      "title": "Cupiditate sint nemo",
+      "author": "Elsie Walsh",
+      "year": 1977
+    },
+    {
+      "id": "4",
+      "title": "Aut veritatis qui accusamus",
+      "author": "Dr. César Mann",
+      "year": 1998
+    },
+    {
+      "id": "5",
+      "title": "Nam sunt eos voluptatum",
+      "author": "Giuseppe Rodriguez",
+      "year": 2004
+    },
+    {
+      "id": "6",
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949
+    },
+    {
+      "id": "7",
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "year": 1967
+    },
+    {
+      "id": "8",
+      "title": "Matar a un ruiseñor",
+      "author": "Harper Lee",
+      "year": 1960
+    },
+    {
+      "id": "9",
+      "title": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes",
+      "year": 1605
+    },
+    {
+      "id": "10",
+      "title": "Crimen y castigo",
+      "author": "Fiódor Dostoyevski",
+      "year": 1866
+    },
+    {
+      "id": "11",
+      "title": "El gran Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925
+    },
+    {
+      "id": "12",
+      "title": "En busca del tiempo perdido",
+      "author": "Marcel Proust",
+      "year": 1913
+    },
+    {
+      "id": "13",
+      "title": "Orgullo y prejuicio",
+      "author": "Jane Austen",
+      "year": 1813
+    },
+    {
+      "id": "14",
+      "title": "Cumbres Borrascosas",
+      "author": "Emily Brontë",
+      "year": 1847
+    },
+    {
+      "id": "15",
+      "title": "La metamorfosis",
+      "author": "Franz Kafka",
+      "year": 1915
+    },
+    {
+      "id": "16",
+      "title": "La Odisea",
+      "author": "Homero",
+      "year": "Siglo VIII a.C."
+    },
+    {
+      "id": "17",
+      "title": "Los miserables",
+      "author": "Victor Hugo",
+      "year": 1862
+    },
+    {
+      "id": "18",
+      "title": "Rayuela",
+      "author": "Julio Cortázar",
+      "year": 1963
+    },
+    {
+      "id": "19",
+      "title": "El retrato de Dorian Gray",
+      "author": "Oscar Wilde",
+      "year": 1890
+    },
+    {
+      "id": "20",
+      "title": "Harry Potter",
+      "author": "J. K. Rowling",
+      "year": 1999,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "f1b3",
+      "title": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes",
+      "year": "1605"
+    },
+    {
+      "id": "c097",
+      "title": "Ulises",
+      "author": "James Joyce",
+      "year": "1922"
+    }
+  ]
+}

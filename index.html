@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Lista de libros</title>
+</head>
+<body class="bg-gray-100">
+    <div class="flex flex-col items-center h-screen pt-8">
+        <h1 class="text-center tracking-wider font-bold p-4 mb-4 bg-black text-white text-3xl w-full max-w-5xl">
+            LISTA DE LIBROS
+        </h1>
+        <div class="relative w-3/4 overflow-y-auto">
+            <table class="w-full border-separate border-spacing-4 divide-y divide-gray-200">
+                <thead>
+                    <tr>
+                        <th class="p-6 text-gray-500 tracking-wider">TÍTULO</th>
+                        <th class="p-6 text-gray-500 tracking-wider">AUTOR</th>
+                        <th class="p-6 text-gray-500 tracking-wider">AÑO</th>
+                    </tr>
+                </thead>
+                <tbody class="bg-white divide-y divide-gray-200" id="tbody">
+                    <tr id="content">
+                        <td class="p-4 text-center whitespace-nowrap">
+                            <p id="title">El Alquimista</p>
+                        </td>
+                        <td class="p-4 text-center whitespace-nowrap">
+                            <p id="author">Paulo Coelho</p>
+                        </td>
+                        <td class="p-4 text-center whitespace-nowrap">
+                            <p id="year">1999</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <button class="absolute bottom-4 right-4 bg-black text-white p-2 rounded text-sm shadow-md" onclick="createNewBook()">Añadir</button>
+    <script src="src/services.js"></script>
+</body>
+</html>
